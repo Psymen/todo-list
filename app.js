@@ -1,3 +1,5 @@
+// Javascript for Todo List
+
 $("#sortable").sortable();
 $("#sortable").disableSelection();
 
